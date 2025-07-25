@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi! I'm a beginner web developer with a basic tech stack:<br>💻 HTML, CSS, JavaScript<br>⚙️ Vue.js, Tailwind CSS<br>🛠️ Node.js, MySQL
 
 
