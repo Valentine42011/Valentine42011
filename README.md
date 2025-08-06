@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/valentyn411)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:valentyn1304@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:valentine1304200@gmail.com)
 
 
 # 💻 Tech Stack:
